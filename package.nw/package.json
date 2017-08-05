@@ -1,0 +1,21 @@
+{
+  "name": "battberry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nw ."
+  },
+  "author": "Adam Jayne",
+  "license": "ISC",
+  "window": {
+    "width": 430,
+    "height": 350,
+    "icon": "icon.png"
+  },
+  "dependencies": {
+    "systeminformation": "^3.23.7",
+    "vue": "^2.4.2"
+  }
+}
